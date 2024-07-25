@@ -1,0 +1,2 @@
+char WIFI_SSID="VODAFONE"; 
+char WIFI_PASS="kCPMAj7t";  
